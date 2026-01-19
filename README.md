@@ -23,7 +23,7 @@ I'm a developer focused on building modular, scalable systems. Obsessed with the
 
 ### 🎵 Outside of Code
 When I'm not in VS Code, I'm likely:
-- 🎹 Producing Music Through Ableton.
+- 🎹 Producing Music Through Ableton
 - 🎮 Taking Breaks On Steam
 - Hanging Out With My Best Friend & Only Son Ashton
 
