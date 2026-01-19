@@ -1,5 +1,9 @@
 # Hi there, I'm Alex 👋 
 
+<p align="center">
+  <img src="https://media.tenor.com/B9O_yU8qU7wAAAAC/anime-lofi.gif" width="500" />
+</p>
+
 
 ### 🚀 Aspiring Software Engineer | B.S. CS & AI Student (Maestro Univ '26)
 I'm a developer focused on building modular, scalable systems. Obsessed with the ins and outs of how things work.
