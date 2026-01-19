@@ -27,6 +27,12 @@ When I'm not in VS Code, I'm likely:
 - 🎮 Taking Breaks On Steam
 - Hanging Out With My Best Friend & Only Son Ashton
 
+<div align="center">
+  <a href="https://open.spotify.com/track/1PCXkNLxSN1rNXqKSEhbgm?si=4c3d050f24084041">
+    <img src="https://img.shields.io/badge/Vibe_Check-Song_Name-black?style=for-the-badge&logo=spotify" />
+  </a>
+</div>
+
 ---
 
 ### 📊 My GitHub Stats
