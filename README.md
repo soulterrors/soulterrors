@@ -1,6 +1,5 @@
 # Hi there, I'm Alex 👋 
 
-<div class="tenor-gif-embed" data-postid="18286525" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/persona-futaba-sakura-gif-18286525">Persona Futaba GIF</a>from <a href="https://tenor.com/search/persona-gifs">Persona GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### 🚀 Aspiring Software Engineer | B.S. CS & AI Student (Maestro Univ '26)
 I'm a developer focused on building modular, scalable systems. Obsessed with the ins and outs of how things work.
