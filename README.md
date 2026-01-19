@@ -30,5 +30,5 @@ When I'm not in VS Code, I'm likely:
 ---
 
 ### 📊 My GitHub Stats
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=soulterrors&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulterrors&layout=compact&theme=radical)
