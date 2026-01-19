@@ -1,7 +1,7 @@
 # Hi there, I'm Alex 👋 
 
 <p align="center">
-  <img src="https://media.tenor.com/boTj7/raw" width="500" alt="Lofi Vibe" />
+  <img src="persona-futaba.gif" width="500" />
 </p>
 
 ### 🚀 Aspiring Software Engineer | B.S. CS & AI Student (Maestro Univ '26)
