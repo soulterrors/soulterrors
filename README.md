@@ -11,6 +11,10 @@ I'm a developer strictly focused on building. No matter the language or difficul
 
 ### 🛠️ Currently Under Development...
 
+<p align="center">
+<img src="https://octodex.github.com/images/jetpacktocat.png" width="220" alt="GitHub Octocat Jetpack" />
+</p>
+
 <table align="center">
   <tr>
     <td align="center" width="200">
@@ -31,21 +35,6 @@ I'm a developer strictly focused on building. No matter the language or difficul
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-<img src="https://octodex.github.com/images/jetpacktocat.png" width="220" alt="GitHub Octocat Jetpack" />
-</p>
-
-#### 🧠 Did You Know? (C++ Edition)
-
-* **The Invisible:** C++ is the "invisible" language. It powers everything from the **Mars Curiosity Rover** to the **Unreal Engine** and even the **Chrome** browser you're likely using right now.
-* **The "++":** In programming, `++` is the increment operator. So "C++" means "One better than C."
-* **Manual Handling:** Unlike Python, C++ doesn't have a "Garbage Collector" by default. You have to clean up your own memory.
-* **Speed:** C++ is often used for game engines because it allows for **Deterministic Destruction**—you know exactly when an object dies, which is vital for keeping those 60+ FPS.
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soulterrors&label=PROFILE+VIEWS&color=fe4450&style=flat" alt="Views" />
