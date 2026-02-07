@@ -39,7 +39,7 @@ I'm a developer strictly focused on building. No matter the language or difficul
 ### 🐙 The Lab 
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="200" alt="GitHub Octocat" />
+<img src="https://octodex.github.com/images/codercat.jpg" width="250" alt="GitHub Octocat" />
 </p>
 
 #### 🧠 Did You Know? (C++ Edition)
