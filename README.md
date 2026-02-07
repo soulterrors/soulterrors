@@ -10,7 +10,6 @@ I'm a developer strictly focused on building. No matter the language or difficul
 ---
 
 ### 🛠️ Currently Under Development...
-I’m currently deep-diving into the "Metal" of software and the "Logic" of game design.
 
 <table align="center">
   <tr>
