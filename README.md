@@ -34,10 +34,6 @@ I'm a developer strictly focused on building. No matter the language or difficul
 
 ---
 
----
-
-### 🐙 The Lab 
-
 <p align="center">
 <img src="https://octodex.github.com/images/jetpacktocat.png" width="220" alt="GitHub Octocat Jetpack" />
 </p>
