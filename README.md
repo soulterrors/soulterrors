@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 Aspiring Software Engineer | B.S. CS & AI Student (Maestro Univ '26)
-I'm a developer strictly focused on building. No matter the language or difficulty, I strive to be the best I can be.
+I'm a developer strictly focused on building. No matter the language or difficulty, I strive to be the best that I can be.
 
 ---
 
@@ -31,6 +31,23 @@ I'm a developer strictly focused on building. No matter the language or difficul
     </td>
   </tr>
 </table>
+
+---
+
+---
+
+### 🐙 The Lab 
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="200" alt="GitHub Octocat" />
+</p>
+
+#### 🧠 Did You Know? (C++ Edition)
+
+* **The Invisible:** C++ is the "invisible" language. It powers everything from the **Mars Curiosity Rover** to the **Unreal Engine** and even the **Chrome** browser you're likely using right now.
+* **The "++":** In programming, `++` is the increment operator. So "C++" means "One better than C."
+* **Manual Handling:** Unlike Python, C++ doesn't have a "Garbage Collector" by default. You have to clean up your own memory.
+* **Speed:** C++ is often used for game engines because it allows for **Deterministic Destruction**—you know exactly when an object dies, which is vital for keeping those 60+ FPS.
 
 ---
 
