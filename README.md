@@ -35,13 +35,6 @@ I’m currently deep-diving into the "Metal" of software and the "Logic" of game
 
 ---
 
-### 🎯 The 2030 Roadmap
-Working toward a **B.S. in Computer Science (Business & AI Pathway)
-
-> I build strictly because I love it, finding work doing what I love is only an added benefit.
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Alex's GitHub Stats" />
 </p>
