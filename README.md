@@ -36,9 +36,9 @@ I’m currently deep-diving into the "Metal" of software and the "Logic" of game
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Alex's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soulterrors&show_icons=true&theme=tokyonight" alt="Alex's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=fe4450&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=soulterrors&label=PROFILE+VIEWS&color=fe4450&style=flat" alt="Views" />
 </p>
